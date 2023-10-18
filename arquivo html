@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
-    <script src="https://unpkg.com/p5.collide2d"></script>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/addons/p5j.sound.mim.js"></script>
-    <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="utf-8" />
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
   </head>
   <body>
-    <main>
-    </main>
-    <script src="sketch.js"></script>
+sobre a lingua portuguesa
+
+A língua portuguesa é uma língua neolatina, formada da mistura de muito latim vulgar e mais a influência árabe e das tribos que viviam na região.
+Sua origem está altamente conectada a outra língua (o galego), mas, o português é uma língua própria e independente.
+No oeste da Península Ibérica, na Europa Ocidental, encontram-se Portugal e Espanha. Ambos eram domínio do Império Romano há mais de 2000 anos, e estes conquistadores falavam latim, uma língua que eles impuseram aos conquistados.
+Mas não o latim culto usado pelas pessoas cultas de Roma e escrito pelos poetas e magistrados, mas o popular latim vulgar, falado pela população em geral.
+Isto aconteceu porque a população local entrou em contato com soldados e outras pessoas incultas, não magistrados.
+
+
   </body>
 </html>
